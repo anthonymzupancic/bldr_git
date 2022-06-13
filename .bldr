@@ -1,0 +1,32 @@
+[
+  {
+    "folderPath": "Content Builder/bldr_git/ssjs_classes/_ssjs_api.js",
+    "bldrId": "e74aa256-2e01-4a2b-812f-0126d2a16db8",
+    "id": 103236,
+    "context": "contentBuilder"
+  },
+  {
+    "folderPath": "Content Builder/bldr_git/ssjs_classes/_ssjs_oauth.js",
+    "bldrId": "574fe2c5-130d-4905-9764-90e242d382d9",
+    "id": 103237,
+    "context": "contentBuilder"
+  },
+  {
+    "folderPath": "Content Builder/bldr_git/ssjs_classes/_ssjs_util.js",
+    "bldrId": "2854a9b3-7895-4b5f-90f0-ae837d27f84c",
+    "id": 103238,
+    "context": "contentBuilder"
+  },
+  {
+    "folderPath": "Content Builder/bldr_git/ssjs_classes/_ssjs_wsproxy.js",
+    "bldrId": "6ed1487b-1074-4764-9836-68272adb2cb8",
+    "id": 103239,
+    "context": "contentBuilder"
+  },
+  {
+    "folderPath": "Content Builder/bldr_git/ssjs_classes/ssjs_dataExtensions.js",
+    "bldrId": "f6bac378-5977-4228-b033-8b7ed3e37d28",
+    "id": 103240,
+    "context": "contentBuilder"
+  }
+]
